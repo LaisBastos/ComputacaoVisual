@@ -1,3 +1,3 @@
 # Computação Visual
 
- Práticas laboratoriais em reconhecimento de padrões em imagens da disciplina Tópicos em Computação Visual I da Universidade Federal da Bahia.
+ Práticas laboratoriais em reconhecimento de padrões em imagens da disciplina Visão Computacional e Reconhecimento de Padrões da Universidade Federal da Bahia.
